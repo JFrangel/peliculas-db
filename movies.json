@@ -1,0 +1,9 @@
+[
+  {
+    "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/6Q6Z46SGB5GGBO6HUP56MKCA7Q.jpeg",
+    "movieName": "Spider man ",
+    "type": "pelicula",
+    "genre": "accion",
+    "movieUrl": "http://127.0.0.1:5500/agregar.html"
+  }
+]
