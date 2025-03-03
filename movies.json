@@ -12,12 +12,5 @@
     "type": "pelicula",
     "genre": "accion",
     "movieUrl": "http://127.0.0.1:5500/agregar.html"
-  },
-  {
-    "imageUrl": "https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/68/50/35/19502082.jpg",
-    "movieName": "Avatar",
-    "type": "pelicula",
-    "genre": "accion",
-    "movieUrl": "http://127.0.0.1:5500/agregar.html"
   }
 ]
