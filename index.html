@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Biblioteca</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <header>
+        <div class="header-top">
+            <h1>Mi Biblioteca</h1>
+            <div class="search-container">
+                <input type="text" id="search-bar" placeholder="Buscar película o serie...">
+                <button id="search-button">🔍</button>
+            </div>
+            <div class="menu-toggle">
+                <span>&#9776;</span>
+            </div>
+        </div>
+        
+        <nav class="nav-menu">
+            <ul>
+                <li class="filter-btn" data-category="anime">Anime</li>
+                <li class="filter-btn" data-category="acción">Acción</li>
+                <li class="filter-btn" data-category="aventura">Aventura</li>
+                <li class="filter-btn" data-category="ciencia ficción">Ciencia Ficción</li>
+                <li class="filter-btn" data-category="comedia">Comedia</li>
+                <li class="filter-btn" data-category="drama">Drama</li>
+                <li class="filter-btn" data-category="terror">Terror</li>
+                <li class="filter-btn" data-category="">Todas</li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="my-biblioteca" class="biblioteca">
+            <!-- Contenido generado dinámicamente -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Mi Biblioteca. Todos los derechos reservados.</p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const movieContainer = document.getElementById('my-biblioteca');
+            const searchBar = document.getElementById('search-bar');
+            const searchButton = document.getElementById('search-button');
+            let movies = JSON.parse(localStorage.getItem('movies')) || [];
+
+            function renderMovies(filteredMovies) {
+                movieContainer.innerHTML = '';
+                filteredMovies.forEach(movie => {
+                    const movieItem = document.createElement('div');
+                    movieItem.classList.add('film-item');
+                    
+                    const movieLink = document.createElement('a');
+                    movieLink.href = movie.movieUrl;
+                    movieLink.target = "_blank";
+                    
+                    const movieImage = document.createElement('img');
+                    movieImage.src = movie.imageUrl;
+                    movieImage.alt = movie.movieName;
+                    
+                    const movieInfo = document.createElement('div');
+                    movieInfo.classList.add('film-info');
+                    
+                    const movieTitle = document.createElement('h2');
+                    movieTitle.textContent = movie.movieName;
+                    
+                    const movieLabel = document.createElement('span');
+                    movieLabel.classList.add('movie-label');
+                    movieLabel.textContent = movie.type === 'pelicula' ? 'PELÍCULA' : 'SERIE';
+                    
+                    movieInfo.appendChild(movieLabel);
+                    movieInfo.appendChild(movieTitle);
+                    movieLink.appendChild(movieImage);
+                    movieLink.appendChild(movieInfo);
+                    movieItem.appendChild(movieLink);
+                    
+                    movieContainer.appendChild(movieItem);
+                });
+            }
+            
+            function buscarPeliculas() {
+                const searchText = searchBar.value.toLowerCase();
+                const filteredMovies = movies.filter(movie => movie.movieName.toLowerCase().includes(searchText));
+                renderMovies(filteredMovies);
+            }
+
+            searchBar.addEventListener('keyup', buscarPeliculas);
+            searchButton.addEventListener('click', buscarPeliculas);
+
+            document.querySelectorAll('.filter-btn').forEach(button => {
+                button.addEventListener('click', function () {
+                    const selectedCategory = this.dataset.category.toLowerCase();
+                    const filteredMovies = selectedCategory 
+                        ? movies.filter(movie => movie.genre.toLowerCase() === selectedCategory) 
+                        : movies;
+                    renderMovies(filteredMovies);
+                });
+            });
+
+            renderMovies(movies);
+        });
+    </script>
+</body>
+</html>
+

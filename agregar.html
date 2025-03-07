@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administrar Películas o Series</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Administrar Películas o Series</h1>
+        <a href="index.html" class="back-btn">⬅ Volver</a>
+    </header>
+
+    <section id="add-movie">
+        <h2>Agregar Película o Serie</h2>
+       <form id="add-movie-form">
+    <label for="image-url">URL de la Imagen:</label>
+    <input type="text" id="image-url" required>
+
+    <label for="movie-name">Nombre de la Película/Serie:</label>
+    <input type="text" id="movie-name" required>
+
+    <label for="type">Tipo:</label>
+    <select id="type">
+        <option value="pelicula">Película</option>
+        <option value="serie">Serie</option>
+    </select>
+
+    <label for="genre">Género:</label>
+    <select id="genre">
+        <option value="accion">Acción</option>
+        <option value="aventura">Aventura</option>
+        <option value="ciencia-ficcion">Ciencia Ficción</option>
+        <option value="comedia">Comedia</option>
+        <option value="drama">Drama</option>
+        <option value="terror">Terror</option>
+        <option value="anime">Anime</option>
+    </select>
+
+    <label for="movie-url">URL para ver:</label>
+    <input type="text" id="movie-url" placeholder="Ejemplo: https://netflix.com/movie123" required>
+
+    <button type="submit">Agregar</button>
+</form>
+
+    </section>
+
+    <section id="preview">
+        <h2>Previsualización</h2>
+        <div id="preview-container" class="card">
+            <img id="preview-image" src="" alt="Previsualización" style="display:none;">
+            <div id="preview-label" class="label"></div>
+            <p id="preview-title"></p>
+        </div>
+    </section>
+
+    <section id="delete-movie">
+        <h2>Eliminar Película o Serie</h2>
+        <form id="delete-movie-form">
+            <label for="delete-movie-name">Nombre de la Película/Serie:</label>
+            <input type="text" id="delete-movie-name" placeholder="Escribe el nombre para buscar..." required>
+            <div id="delete-preview" style="display: none;">
+                <h3>Previsualización de eliminación</h3>
+                <img id="delete-preview-image" src="" alt="Previsualización">
+                <p id="delete-preview-title"></p>
+            </div>
+            <button type="submit">Eliminar</button>
+        </form>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
