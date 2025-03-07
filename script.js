@@ -1,7 +1,7 @@
 const repoOwner = "JFrangel";
 const repoName = "peliculas-db";
 const jsonFilePath = "movies.json";
-const accessToken = "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";   // ¡Reemplázalo con tu token real!
+const accessToken = "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";   // ¡Reemplázalo con tu token real!
 
 document.addEventListener('DOMContentLoaded', async function () {
     const menuToggle = document.querySelector('.menu-toggle');
