@@ -1,12 +1,5 @@
 [
   {
-    "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/6Q6Z46SGB5GGBO6HUP56MKCA7Q.jpeg3",
-    "movieName": "avatar",
-    "type": "pelicula",
-    "genre": "accion",
-    "movieUrl": "http://127.0.0.1:5500/agregar.html"
-  },
-  {
     "imageUrl": "https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/68/50/35/19502082.jpg",
     "movieName": "avatar 22",
     "type": "pelicula",
