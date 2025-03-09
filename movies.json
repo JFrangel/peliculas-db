@@ -1,5 +1,12 @@
 [
   {
+    "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/6Q6Z46SGB5GGBO6HUP56MKCA7Q.jpeg",
+    "movieName": "Spider man ",
+    "type": "pelicula",
+    "genre": "accion",
+    "movieUrl": "https://www.terabox.com/spanish/sharing/link?surl=m7-EFHUFGF0aRQnPqq19hg&path=%2F2022-11-08%2006%2FSuperman%20%26%20Lois%20Season%201"
+  },
+  {
     "imageUrl": "https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/68/50/35/19502082.jpg",
     "movieName": "aVatar",
     "type": "pelicula",
