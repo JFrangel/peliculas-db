@@ -1,5 +1,12 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/OIP.oaX7bb-mr8iA2vyp4CIOtAHaHa?rs=1&pid=ImgDetMain",
+    "movieName": "El Tiempo Que Tenemos",
+    "type": "pelicula",
+    "genre": "drama",
+    "movieUrl": "https://1024terabox.com/s/1qvFUQXt86i_Gt-ir5fr1FQ"
+  },
+  {
     "imageUrl": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/48256-200189-20241107120658.jpg",
     "movieName": "Turno Nocturno",
     "type": "pelicula",
