@@ -1,5 +1,12 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/OIP.x3CzKDmK5kqhcboVjHS8hwHaJ4?rs=1&pid=ImgDetMain",
+    "movieName": "Ositos Asesinos",
+    "type": "pelicula",
+    "genre": "terror",
+    "movieUrl": "https://terabox.com/s/1HU3oyvDJsTBpFmiEv2f-sQ"
+  },
+  {
     "imageUrl": "https://pics.filmaffinity.com/Odd_Thomas_cazador_de_fantasmas-844928885-large.jpg",
     "movieName": "Odd Thomas , Cazador de Fantasmas",
     "type": "pelicula",
