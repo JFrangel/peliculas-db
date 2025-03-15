@@ -1,5 +1,12 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/OIP.XPBgZ_nSHtvw0AhUaNSR5QHaK8?pid=ImgDet&w=178&h=262&c=7&dpr=1,5",
+    "movieName": "La Maldición Del Titanic",
+    "type": "pelicula",
+    "genre": "terror",
+    "movieUrl": "https://1024terabox.com/s/1gDPgVp8MhHXCluQBdaLwhg"
+  },
+  {
     "imageUrl": "https://i0.wp.com/themanilajournal.com/wp-content/uploads/2022/12/image-18.png?resize=730%2C913&ssl=1",
     "movieName": "Avatar 2",
     "type": "pelicula",
