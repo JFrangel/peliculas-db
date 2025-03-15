@@ -1,5 +1,12 @@
 [
   {
+    "imageUrl": "https://www.techgames.com.mx/wp-content/uploads/2024/11/Sonic-3-La-Pelicula-poster-dos.webp",
+    "movieName": "Sonic 3: La Película",
+    "type": "pelicula",
+    "genre": "accion",
+    "movieUrl": "https://1024terabox.com/s/1AwrZJd_MB2jqZy7Z4iDcHQ"
+  },
+  {
     "imageUrl": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/46394-535795-20240517105153.jpg",
     "movieName": "Carnada",
     "type": "pelicula",
