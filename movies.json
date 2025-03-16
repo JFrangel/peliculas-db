@@ -1,5 +1,16 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/OIP.ZnmqeUxwHHsVRkM1nQsezgHaKe?rs=1&pid=ImgDetMain",
+    "movieName": "¡Huye!",
+    "type": "pelicula",
+    "genre": [
+      "comedia",
+      "terror"
+    ],
+    "movieUrl": "https://terabox.com/s/10Txw1_Pbv4yXWQHWwum0Aw",
+    "bannerLink": "https://image.tmdb.org/t/p/original/piQqKE2KilzYjnlhADAovoODHUn.jpg"
+  },
+  {
     "imageUrl": "https://exapelis.me/wp-content/uploads/2023/11/4mvahnNo3zbpTcXJiqoKv63m9gc.jpg",
     "movieName": "Creyente 2",
     "type": "pelicula",
