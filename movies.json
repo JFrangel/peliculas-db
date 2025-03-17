@@ -1,5 +1,15 @@
 [
   {
+    "imageUrl": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/576042694D2687B14D0303CDF76D2A91BBF6DA53E5ECADB8A7FE80ED8796EB7B/scale?width=506&aspectRatio=2.00&format=webp",
+    "movieName": "Ganes o Pierdas",
+    "type": "serie",
+    "genre": [
+      "anime"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1l2tOrk6DWmEhmYE5GxBznA",
+    "bannerLink": "https://www.lja.mx/wp-content/uploads/2025/02/3-1-1068x601-1.webp"
+  },
+  {
     "imageUrl": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/06/one-piece-serie-tv-1688040870157-3070886.jpg?tf=3840x",
     "movieName": "One Piece",
     "type": "serie",
