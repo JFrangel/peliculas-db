@@ -1,5 +1,18 @@
 [
   {
+    "imageUrl": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/06/one-piece-serie-tv-1688040870157-3070886.jpg?tf=3840x",
+    "movieName": "One Piece",
+    "type": "serie",
+    "genre": [
+      "accion",
+      "aventura",
+      "comedia",
+      "fantasia"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1lsVCl3tzP4CvXEbgu2eo3g",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://th.bing.com/th/id/OIP.dz_k2ivDA74geK5rlCPMoQHaLH?rs=1&pid=ImgDetMain",
     "movieName": "El Protector",
     "type": "pelicula",
