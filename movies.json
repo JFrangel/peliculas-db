@@ -1,5 +1,16 @@
 [
   {
+    "imageUrl": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/03/atlas-movie-poster-showing-jennifer-lopez-looking-up-into-the-sky-flying-a-spaceship.jpg",
+    "movieName": "Atlas",
+    "type": "pelicula",
+    "genre": [
+      "accion",
+      "ciencia-ficcion"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1c2uMY-V63XiWhSima27sEQ",
+    "bannerLink": "https://image.tmdb.org/t/p/original/7PpfAZQ2x6GJV2K2T7Tf5V8CQy5.jpg"
+  },
+  {
     "imageUrl": "https://es.web.img3.acsta.net/img/4b/a9/4ba92b55412714ef4240e2f30d8c2167.jpg",
     "movieName": "María",
     "type": "pelicula",
