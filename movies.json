@@ -1,5 +1,17 @@
 [
   {
+    "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ov3Hh0xsZDQvAAkpJUF7gzYoLe.jpg",
+    "movieName": "Parasyte: Los grises",
+    "type": "serie",
+    "genre": [
+      "ciencia-ficcion",
+      "drama",
+      "terror"
+    ],
+    "movieUrl": "https://terabox.com/s/1Z3MO9dOyXWd4TxDjBFb18g",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://th.bing.com/th/id/OIP.LQVlGNfUf-WMcrgLuEyR8wHaLH?rs=1&pid=ImgDetMain",
     "movieName": "El cadáver de la novia",
     "type": "pelicula",
