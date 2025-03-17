@@ -1,5 +1,17 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/OIP.iJpNfvKEdnGigxOCpqH4wAHaJQ?rs=1&pid=ImgDetMain",
+    "movieName": "Guasón 2: Folie a Deux",
+    "type": "pelicula",
+    "genre": [
+      "drama",
+      "romance",
+      "crimen"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1nHdoVNJ7htc-QysqnYEeng",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/03/atlas-movie-poster-showing-jennifer-lopez-looking-up-into-the-sky-flying-a-spaceship.jpg",
     "movieName": "Atlas",
     "type": "pelicula",
