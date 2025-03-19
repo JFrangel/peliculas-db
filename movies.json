@@ -1,5 +1,16 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/OIP.XvynnzW7dS6qYiV6WjNSpQHaLH?rs=1&pid=ImgDetMain",
+    "movieName": "Terrifier 3",
+    "type": "pelicula",
+    "genre": [
+      "terror",
+      "crimen"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1fLqefj9FrcVSN9MVzgP_7Q",
+    "bannerLink": "https://bleedingcool.com/wp-content/uploads/2024/08/terrifier_three_ver2_xxlg-1-2000x1125.jpg"
+  },
+  {
     "imageUrl": "https://es.web.img3.acsta.net/img/96/bd/96bdd67e3872f7a991269d26de70f8aa.jpg",
     "movieName": "Venom: El Último Baile",
     "type": "pelicula",
