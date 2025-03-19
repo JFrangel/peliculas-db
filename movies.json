@@ -1,5 +1,15 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/OIP.vCcyV14DXQ_5sF5oTcU7bwHaK-?rs=1&pid=ImgDetMain",
+    "movieName": "La Maldición de La Llorona",
+    "type": "pelicula",
+    "genre": [
+      "terror"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1HYwG-1PqVnn0EVctXllL7g",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://th.bing.com/th/id/R.032687803b6536291f4b729725c4c5e5?rik=u4xqORWglwyQ0Q&riu=http%3a%2f%2fbr.web.img3.acsta.net%2fmedias%2fnmedia%2f18%2f87%2f19%2f67%2f19872996.jpg&ehk=NXOZwUIro1xIjYDUHfkr%2bJRQ1F54LOH9k3EWNt1Lma0%3d&risl=&pid=ImgRaw&r=0",
     "movieName": "Paranoia",
     "type": "pelicula",
