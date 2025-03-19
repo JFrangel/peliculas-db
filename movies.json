@@ -1,5 +1,15 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/OIP.ZIBQ1azE1izd8DWq9RyJEwHaKk?w=128&h=182&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+    "movieName": "Tulsa King",
+    "type": "serie",
+    "genre": [
+      "drama"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1YQq4bt2NKW8w_gv8CKzCxQ",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_839683-MLM78938327303_092024-O.webp",
     "movieName": "Robot Salvaje",
     "type": "pelicula",
