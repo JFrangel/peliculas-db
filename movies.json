@@ -1,5 +1,17 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th?id=OIF.CplHTexfZlxKbgK%2bUQuZng&rs=1&pid=ImgDetMain",
+    "movieName": "Estado Eléctrico",
+    "type": "pelicula",
+    "genre": [
+      "accion",
+      "aventura",
+      "ciencia-ficcion"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1IqFNuhJYzxoBem8RsU1dhA",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://th.bing.com/th/id/OIP.vCcyV14DXQ_5sF5oTcU7bwHaK-?rs=1&pid=ImgDetMain",
     "movieName": "La Maldición de La Llorona",
     "type": "pelicula",
