@@ -1,5 +1,16 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/R.7f6b48bbaf1bec15e059374f29a4617c?rik=e7h9g%2bxzk4lWiA&riu=http%3a%2f%2fimg.tecnomagazine.net%2f2018%2f01%2fbright-pelicula.jpg&ehk=aBgIvldUhmjAETadBlgA0FWadrm6csXcp2W7mXFoM1I%3d&risl=&pid=ImgRaw&r=0",
+    "movieName": "Bright",
+    "type": "pelicula",
+    "genre": [
+      "accion",
+      "fantasia"
+    ],
+    "movieUrl": "https://terabox.app/s/1qOfEddsQvZexqfyZZlOW2Q",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://es.web.img3.acsta.net/pictures/23/03/28/12/53/0991282.jpg",
     "movieName": "Sisu",
     "type": "pelicula",
