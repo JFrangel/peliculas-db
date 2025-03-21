@@ -1,5 +1,17 @@
 [
   {
+    "imageUrl": "https://image.tmdb.org/t/p/w1280/arYdHX708nDq6oWNOSjw6NczWc5.jpg",
+    "movieName": "S.O.Z. Soldados o Zombies",
+    "type": "serie",
+    "genre": [
+      "accion",
+      "ciencia-ficcion",
+      "terror"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1a_rggOL6FWv7s3y4zuOpkA",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0870b3d5e99fcbe557de0fd2740bfe3a04b86f55feea44f0241e046607363f51._RI_V_TTW_.jpg",
     "movieName": "Geo-tormenta",
     "type": "pelicula",
