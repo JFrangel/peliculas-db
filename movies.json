@@ -1,5 +1,17 @@
 [
   {
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_987021-MLM44125326090_112020-O.webp",
+    "movieName": "La Brújula Dorada",
+    "type": "pelicula",
+    "genre": [
+      "accion",
+      "aventura",
+      "fantasia"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1PD3XjvgpWi2yK3CdztiESg",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://www.show.news/export/sites/debate/img/2025/03/07/serie_medusa.jpg_1149628435.jpg",
     "movieName": "Medusa",
     "type": "serie",
