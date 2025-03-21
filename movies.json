@@ -1,5 +1,16 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/OIP.-5BPQn48zoJ-MeL1y9Lp6AHaLP?rs=1&pid=ImgDetMain",
+    "movieName": "Los Nuevos Mutantes",
+    "type": "pelicula",
+    "genre": [
+      "accion",
+      "terror"
+    ],
+    "movieUrl": "https://terabox.com/s/18vI5N0bXeXqMmGsrLMnTOw",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://images.static-bluray.com/products/20/34549_1_large.jpg",
     "movieName": "7500",
     "type": "pelicula",
