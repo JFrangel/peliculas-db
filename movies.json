@@ -1,5 +1,16 @@
 [
   {
+    "imageUrl": "https://4.bp.blogspot.com/-wBAAaG2I6_Y/WNzpZf8MgGI/AAAAAAAAltw/ZrAVcZnfNOE_KWVD6dS2gC0e1olsTpjDQCLcB/s00/Huye_Get_Out_Poster_Latino_JPosters.jpg",
+    "movieName": "¡Huye!",
+    "type": "pelicula",
+    "genre": [
+      "comedia",
+      "terror"
+    ],
+    "movieUrl": "https://terabox.com/s/10Txw1_Pbv4yXWQHWwum0Aw",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://vignette.wikia.nocookie.net/doblaje/images/b/bb/Venganza_despiadada.jpg/revision/latest?cb=20111207035344&path-prefix=es",
     "movieName": "Venganza Despiadada",
     "type": "pelicula",
