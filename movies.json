@@ -1,5 +1,16 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/OIP._E-lx_NNrAgSSPjt0CWUQAHaJQ?rs=1&pid=ImgDetMain",
+    "movieName": "Brightburn: Hijo De La Oscuridad",
+    "type": "pelicula",
+    "genre": [
+      "ciencia-ficcion",
+      "terror"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1qw8DvoZXPVqAcp9qTmf-8w",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://th.bing.com/th/id/OIP.SWraThIWWQsiaGMSamhWEwHaKs?rs=1&pid=ImgDetMain",
     "movieName": "El Especialista",
     "type": "pelicula",
