@@ -1,5 +1,16 @@
 [
   {
+    "imageUrl": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/01/evil-dead-rise-poster.jpg",
+    "movieName": "Evil Dead: Rise",
+    "type": "pelicula",
+    "genre": [
+      "sobrenatural",
+      "terror"
+    ],
+    "movieUrl": "https://1024terabox.com/s/11lBCP7-tN5ghBeaKJdxe2A",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://www.corrierenerd.it/wp-content/uploads/2023/12/Kung-Fu-Panda-4-scaled.jpg",
     "movieName": "Kung fu panda 4",
     "type": "pelicula",
