@@ -1,5 +1,16 @@
 [
   {
+    "imageUrl": "https://www.corrierenerd.it/wp-content/uploads/2023/12/Kung-Fu-Panda-4-scaled.jpg",
+    "movieName": "Kung fu panda 4",
+    "type": "pelicula",
+    "genre": [
+      "animacion",
+      "comedia"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1PY7RXqJx3QbKvgS2muA_Pg",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://www.themoviedb.org/t/p/original/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg",
     "movieName": "El Hobbit: La batalla de los cinco ejércitos",
     "type": "pelicula",
