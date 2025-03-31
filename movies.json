@@ -1,5 +1,15 @@
 [
   {
+    "imageUrl": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2024/9/w1280/rWS8Wo9aN90GcokuvpMNjJYRijA.jpg",
+    "movieName": "Mátalos A Todos 2",
+    "type": "pelicula",
+    "genre": [
+      "accion"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1FY7f7glvEVCfaEi7W3PDGg",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://bloghorror.com/wp-content/uploads/2016/02/cadaver20anna20fritz20poster.jpg",
     "movieName": "El Cadáver de Anna Fritz",
     "type": "pelicula",
