@@ -1,5 +1,16 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/OIP.Ax4uQVGCKEQXOzDNJTAQuwHaKv?rs=1&pid=ImgDetMain",
+    "movieName": "Súper Cool",
+    "type": "pelicula",
+    "genre": [
+      "adolescencia",
+      "comedia"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1s1UdQf1O1EzWdn7HYQ_kyg",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2024/9/w1280/rWS8Wo9aN90GcokuvpMNjJYRijA.jpg",
     "movieName": "Mátalos A Todos 2",
     "type": "pelicula",
