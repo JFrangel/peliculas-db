@@ -1,5 +1,16 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/R.4606c343835fd892e6765cd3281513cd?rik=tq3tN0h6LoxXCA&riu=http%3a%2f%2fstatic4.wikia.nocookie.net%2f__cb20101226233322%2fdoblaje%2fes%2fimages%2fe%2fe1%2fEscuadron.jpg&ehk=2RBBIayh3hryghT95sXeQ1dj6Pe2f61OdGw5GQgMYnU%3d&risl=&pid=ImgRaw&r=0",
+    "movieName": "El Escuadrón del Crimen",
+    "type": "pelicula",
+    "genre": [
+      "accion",
+      "thriller"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1_AAYXReUlZpMPs7PPr4msg",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/41958-723264-20230519041114.jpg",
     "movieName": "Rápidos y Furiosos X",
     "type": "pelicula",
