@@ -1,5 +1,18 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/OIP.NUOxfvsY9-wcEJbL_3F4tQHaK-?rs=1&pid=ImgDetMain",
+    "movieName": "La Bruja: La Cacería Part 2",
+    "type": "pelicula",
+    "genre": [
+      "accion",
+      "misterio",
+      "suspenso",
+      "terror"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1YLzCjDL4xOrblpZsZRBtxw",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://th.bing.com/th/id/OIP.Ax4uQVGCKEQXOzDNJTAQuwHaKv?rs=1&pid=ImgDetMain",
     "movieName": "Súper Cool",
     "type": "pelicula",
