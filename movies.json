@@ -1,5 +1,18 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/R.c2dbad9a02b755a3cabebefc66cd9c0a?rik=fAJLS216cL9y4Q&riu=http%3a%2f%2fwww.cines.com.py%2fimages%2fdinamico%2fpeliculas%2f2410%2fafiche%2fbad-boys-poster-1.jpg&ehk=vIz9eDk5JEPKkJtW0aiw5bZ%2bVnpmTP0DO0xzMI4uuIs%3d&risl=&pid=ImgRaw&r=0",
+    "movieName": "Bad Boys Para Siempre",
+    "type": "pelicula",
+    "genre": [
+      "accion",
+      "comedia",
+      "crimen",
+      "suspenso"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1bTKSW5Gl-a1wzQqRkme2aw",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://www.themoviedb.org/t/p/original/3yuL7iUcvZuDJ2QfGBdKvk2i00I.jpg",
     "movieName": "Shrek Tercero",
     "type": "pelicula",
