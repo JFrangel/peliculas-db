@@ -1,5 +1,17 @@
 [
   {
+    "imageUrl": "https://pics.filmaffinity.com/encanto-246546841-large.jpg",
+    "movieName": "Encanto",
+    "type": "pelicula",
+    "genre": [
+      "animacion",
+      "comedia",
+      "drama"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1Uq7QDWSmlNYLxwSPu5IwCQ",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://andesfilms.cl/wp-content/thumbgen_cache/3333c8655854d54954f85a7564ee10c3.jpg",
     "movieName": "Aguas Siniestras",
     "type": "pelicula",
