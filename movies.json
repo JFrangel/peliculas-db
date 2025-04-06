@@ -41,7 +41,7 @@
       "suspenso"
     ],
     "movieUrl": "https://1024terabox.com/s/1Y2UQI5PY-2yXaJq8297yIQ",
-    "bannerLink": "https://images.justwatch.com/backdrop/322329113/s640/ad-vitam"
+    "bannerLink": ""
   },
   {
     "imageUrl": "https://img.peliplat.com/api/resize/v1?imagePath=std/202501/b/2/b24376c1980fc89daf2fe5bce978f3aa.jpg&mode=FILL&width=304&height=456&limit=false",
@@ -51,7 +51,7 @@
       "accion"
     ],
     "movieUrl": "https://1024terabox.com/s/1LOzkNcbCNNkHR8ETjS1R5g",
-    "bannerLink": "https://images.justwatch.com/backdrop/322329113/s640/ad-vitam"
+    "bannerLink": ""
   },
   {
     "imageUrl": "https://images.justwatch.com/poster/324599778/s718/ad-vitam.jpg",
@@ -2248,7 +2248,7 @@
     "bannerLink": ""
   },
   {
-    "imageUrl": "https://image.agentm.tw/images/movie/15f7a22c75c1afda7c69b1d0afd55ec21be4a2590275e136106e33d8ad45b3e9/poster/thumbnail/192daf56-521d-4e46-aeb8-3ac086623239.jpg",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/hihk1XnFai9OYC3SGmuBaIV0ef8.jpg",
     "movieName": "El Mundo Está Loco Loco",
     "type": "pelicula",
     "genre": [
