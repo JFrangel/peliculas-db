@@ -1,5 +1,17 @@
 [
   {
+    "imageUrl": "https://www.atoupeira.com.br/wp-content/uploads/2024/12/O_Maravilhoso_Magico_de_Oz_Poster_Oficial.jpg",
+    "movieName": "El Maravilloso Mago de Oz: Parte 1",
+    "type": "pelicula",
+    "genre": [
+      "aventura",
+      "drama",
+      "fantasia"
+    ],
+    "movieUrl": "https://1024terabox.com/s/17Qrsc_UIwYx0A08gy8g2Fw",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://mx.web.img2.acsta.net/pictures/20/12/09/01/31/3603579.jpg",
     "movieName": "Los Croods 2: Una Nueva Era",
     "type": "pelicula",
