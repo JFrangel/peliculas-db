@@ -1,5 +1,16 @@
 [
   {
+    "imageUrl": "https://imagenes.gatotv.com/categorias/peliculas/posters/hancock.jpg",
+    "movieName": "Hancock",
+    "type": "pelicula",
+    "genre": [
+      "accion",
+      "comedia"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1DVxFUvdHG-dURal_LRb7WQ",
+    "bannerLink": ""
+  },
+  {
     "imageUrl": "https://www.atoupeira.com.br/wp-content/uploads/2024/12/O_Maravilhoso_Magico_de_Oz_Poster_Oficial.jpg",
     "movieName": "El Maravilloso Mago de Oz: Parte 1",
     "type": "pelicula",
