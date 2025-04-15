@@ -1,5 +1,18 @@
 [
   {
+    "imageUrl": "https://mx.web.img2.acsta.net/pictures/20/12/09/01/31/3603579.jpg",
+    "movieName": "Los Croods 2: Una Nueva Era",
+    "type": "pelicula",
+    "genre": [
+      "animacion",
+      "aventura",
+      "comedia",
+      "familiar"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1k2h1pCaS8ktju_81Pv0x3w",
+    "bannerLink": "https://1.bp.blogspot.com/-E3zhepIaR3c/X90KHcedrsI/AAAAAAAAT0o/YgAvqHPGNCw282CaexKCkoz3guuKCVtYgCLcBGAsYHQ/s750/Los-croods-2.jpg"
+  },
+  {
     "imageUrl": "https://fr.web.img4.acsta.net/medias/nmedia/18/95/10/55/20502151.jpg",
     "movieName": "Los Croods",
     "type": "pelicula",
