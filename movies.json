@@ -212,8 +212,7 @@
     "type": "pelicula",
     "genre": [
       "aventura",
-      "comedia",
-    "estreno": true
+      "comedia"
     ],
     "movieUrl": "https://1024terabox.com/s/1cUAJbzxaicJwsPecCnLqPA",
     "bannerLink": "https://www.sdpnoticias.com/resizer/v2/QTQG3QMHVBA3BK4JTR6ZZCEGHI.jpeg?smart=true&auth=483c187c65b564351923bbf8d57755e558fc48f33886d1798cd48a1ab4937358&width=1200&height=675"
