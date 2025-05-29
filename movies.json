@@ -1,5 +1,18 @@
 [
   {
+    "imageUrl": "https://es.web.img2.acsta.net/img/47/ae/47ae4a664a753d8f746d516671000a30.jpg",
+    "movieName": "Estragos",
+    "type": "pelicula",
+    "genre": [
+      "accion",
+      "crimen",
+      "policiaco"
+    ],
+    "movieUrl": "https://1024terabox.com/s/10yMlgceYLpzNXSKg00oppg",
+    "bannerLink": "",
+    "estreno": true
+  },
+  {
     "imageUrl": "https://www.sinembargo.mx/wp-content/uploads/2025/05/lilo.jpeg",
     "movieName": "Lilo y Stitch",
     "type": "pelicula",
