@@ -1,5 +1,19 @@
 [
   {
+    "imageUrl": "https://www.sinembargo.mx/wp-content/uploads/2025/05/lilo.jpeg",
+    "movieName": "Lilo y Stitch",
+    "type": "pelicula",
+    "genre": [
+      "ciencia-ficcion",
+      "comedia",
+      "familiar",
+      "infantil"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1lxD596ElFULdYUCjWglS_w",
+    "bannerLink": "https://radiocentro.com.ec/wp-content/uploads/2025/05/LILO-Y-STITCH-LIVE-ACTION.jpg",
+    "estreno": true
+  },
+  {
     "imageUrl": "https://images.justwatch.com/poster/186516308/s718/arrastrame-al-infierno.%7Bformat%7D",
     "movieName": "Arrástrame Al Infierno",
     "type": "pelicula",
