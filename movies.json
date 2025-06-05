@@ -1,5 +1,17 @@
 [
   {
+    "imageUrl": "https://es.web.img3.acsta.net/medias/nmedia/18/75/09/69/19692838.jpg",
+    "movieName": "Juego De Tronos Temporada 1",
+    "type": "serie",
+    "genre": [
+      "drama",
+      "fantasia"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1vK93Btc0wfGBXbIGi5cN9g",
+    "bannerLink": "",
+    "estreno": false
+  },
+  {
     "imageUrl": "https://es.web.img2.acsta.net/img/47/ae/47ae4a664a753d8f746d516671000a30.jpg",
     "movieName": "Estragos",
     "type": "pelicula",
