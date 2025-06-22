@@ -1,5 +1,20 @@
 [
   {
+    "imageUrl": "https://images.justwatch.com/poster/61306826/s718/temporada-1.jpg",
+    "movieName": "Continuum Temporada 1",
+    "type": "serie",
+    "genre": [
+      "aventura",
+      "ciencia-ficcion",
+      "crimen",
+      "drama",
+      "fantasia"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1NGJr1YnRKZ3rd6RtHSRnXA",
+    "bannerLink": "",
+    "estreno": false
+  },
+  {
     "imageUrl": "https://image.tmdb.org/t/p/w220_and_h330_face/oSYERQk3ofDV9G7nQCAU5QJ3bL1.jpg",
     "movieName": "Once Upon a Time",
     "type": "pelicula",
