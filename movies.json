@@ -1,5 +1,17 @@
 [
   {
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d97f99bca2255375e2e5327298e8504b3093d707998b6c7cc63660389de13c46._RI_V_TTW_.jpg",
+    "movieName": "Feroz",
+    "type": "pelicula",
+    "genre": [
+      "fantasia",
+      "terror"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1Argg7zNtk8PEuA54ZX8CZw",
+    "bannerLink": "",
+    "estreno": false
+  },
+  {
     "imageUrl": "https://th.bing.com/th/id/OIP.OEMJk570vbHsIiYO-yCrawHaKo?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
     "movieName": "Los Protegidos Temporada 3",
     "type": "serie",
