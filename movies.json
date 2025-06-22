@@ -1,5 +1,18 @@
 [
   {
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/7b0f9ffd8d2c28fc0a82b5d7ce02fb36f10ed20bd419ca6179a9c83ad21c8afc._RI_TTW_.jpg",
+    "movieName": "Black Sails Temporada 2",
+    "type": "serie",
+    "genre": [
+      "accion",
+      "aventura",
+      "drama"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1E2jLlLRpybsxsSCMIhhXtg",
+    "bannerLink": "",
+    "estreno": false
+  },
+  {
     "imageUrl": "https://image.tmdb.org/t/p/w500/dqK3yfyl3DHM4IKk7NUb0JL8R5D.jpg",
     "movieName": "Black Sails Temporada 1",
     "type": "serie",
