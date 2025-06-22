@@ -1,5 +1,18 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/OIP.mRSUVIV7HjR2LJBcl81T6AAAAA?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "movieName": "Vikingos Valhalla Temporada 2",
+    "type": "pelicula",
+    "genre": [
+      "accion",
+      "aventura",
+      "drama"
+    ],
+    "movieUrl": "https://1024terabox.com/s/128lgycPUdORAxZkWEE7-fw",
+    "bannerLink": "",
+    "estreno": false
+  },
+  {
     "imageUrl": "https://images.justwatch.com/poster/263154373/s718/temporada-1.%7Bformat%7D",
     "movieName": "Vikingos Valhalla Temporada 1",
     "type": "pelicula",
