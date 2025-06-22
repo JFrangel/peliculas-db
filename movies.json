@@ -1,5 +1,18 @@
 [
   {
+    "imageUrl": "https://image.tmdb.org/t/p/w500/dqK3yfyl3DHM4IKk7NUb0JL8R5D.jpg",
+    "movieName": "Black Sails Temporada 1",
+    "type": "serie",
+    "genre": [
+      "accion",
+      "aventura",
+      "drama"
+    ],
+    "movieUrl": "https://1024terabox.com/s/103uFFCIVhXhNOXusMs71og",
+    "bannerLink": "",
+    "estreno": false
+  },
+  {
     "imageUrl": "https://images.justwatch.com/poster/61306690/s718/temporada-4.jpg",
     "movieName": "Continuum Temporada 4",
     "type": "serie",
