@@ -1,5 +1,19 @@
 [
   {
+    "imageUrl": "https://image.tmdb.org/t/p/w1280/zfUp0LO9ZpleAZxwMrjQj0n4b3X.jpg",
+    "movieName": "Lucifer Temporada-2",
+    "type": "serie",
+    "genre": [
+      "comedia",
+      "fantasia",
+      "policiaco",
+      "sobrenatural"
+    ],
+    "movieUrl": "https://1024terabox.com/s/125-K8sYayKT9x4on25T-lg",
+    "bannerLink": "",
+    "estreno": false
+  },
+  {
     "imageUrl": "https://images.justwatch.com/poster/289881783/s718/saison-1.%7Bformat%7D",
     "movieName": "Lucifer Temporada-1",
     "type": "serie",
