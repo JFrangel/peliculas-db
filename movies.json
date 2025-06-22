@@ -1,5 +1,16 @@
 [
   {
+    "imageUrl": "https://images.justwatch.com/poster/307074731/s718/temporada-1.jpg",
+    "movieName": "Los Bridgerton Temporada 1",
+    "type": "serie",
+    "genre": [
+      "drama"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1k3gX4ebsqQPaDVIRjVf4Sg",
+    "bannerLink": "",
+    "estreno": false
+  },
+  {
     "imageUrl": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2024/09/thunderbolts-poster.jpeg",
     "movieName": "Thunderbolts",
     "type": "pelicula",
