@@ -1,5 +1,16 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/OIP.SHceadxBP9FreUvG95bMSwHaLQ?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "movieName": "Los Bridgerton Temporada 2",
+    "type": "serie",
+    "genre": [
+      "drama"
+    ],
+    "movieUrl": "https://1024terabox.com/s/15YhQHbD-1TOzoe1JC7ahgg",
+    "bannerLink": "",
+    "estreno": false
+  },
+  {
     "imageUrl": "https://images.justwatch.com/poster/307074731/s718/temporada-1.jpg",
     "movieName": "Los Bridgerton Temporada 1",
     "type": "serie",
