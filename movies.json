@@ -1,5 +1,16 @@
 [
   {
+    "imageUrl": "https://2.bp.blogspot.com/-Qhp7nAHpjAM/UlLQBdm5tXI/AAAAAAAADSA/yhgtoRhtxZw/s1600/TITANES+FOTO.jpg",
+    "movieName": "Titanes del Pacífico",
+    "type": "pelicula",
+    "genre": [
+      "ciencia-ficcion"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1P3Y8RZlzTpQSiFPGoT9T8w",
+    "bannerLink": "",
+    "estreno": false
+  },
+  {
     "imageUrl": "https://th.bing.com/th/id/R.cd6751bd1cea020f679357f93fbddd52?rik=1yk6ym2FWlE1OA&pid=ImgRaw&r=0",
     "movieName": "Nacho Libre",
     "type": "pelicula",
