@@ -1,5 +1,18 @@
 [
   {
+    "imageUrl": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2024/09/thunderbolts-poster.jpeg",
+    "movieName": "Thunderbolts",
+    "type": "pelicula",
+    "genre": [
+      "accion",
+      "ciencia-ficcion",
+      "superheroes"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1QtHKKYYWtVZZ9JCYoGNhLQ",
+    "bannerLink": "",
+    "estreno": true
+  },
+  {
     "imageUrl": "https://th.bing.com/th/id/OIP.mRSUVIV7HjR2LJBcl81T6AAAAA?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
     "movieName": "Vikingos Valhalla Temporada 2",
     "type": "pelicula",
