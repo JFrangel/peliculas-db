@@ -1,5 +1,17 @@
 [
   {
+    "imageUrl": "https://th.bing.com/th/id/OIP.BI5WAn-9NKZ-dFHijVPnRwHaJQ?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "movieName": "Los Bridgerton Temporada 3",
+    "type": "serie",
+    "genre": [
+      "drama",
+      "romance"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1giOK0A2kTGLOzRNddkTCCg",
+    "bannerLink": "",
+    "estreno": false
+  },
+  {
     "imageUrl": "https://th.bing.com/th/id/OIP.Apg2i2Z3bytiL9pPQSazmQHaK_?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
     "movieName": "Poder sin límites",
     "type": "pelicula",
