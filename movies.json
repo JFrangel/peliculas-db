@@ -1,5 +1,18 @@
 [
   {
+    "imageUrl": "https://mabuse.es/wp-content/uploads/2025/05/Como-entrenar-a-tu-dragon.jpg",
+    "movieName": "Cómo entrenar a tu dragón",
+    "type": "pelicula",
+    "genre": [
+      "accion",
+      "familiar",
+      "fantasia"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1TqAc63U9HD7-DKna1YqogA",
+    "bannerLink": "",
+    "estreno": true
+  },
+  {
     "imageUrl": "https://th.bing.com/th/id/OIP.BI5WAn-9NKZ-dFHijVPnRwHaJQ?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
     "movieName": "Los Bridgerton Temporada 3",
     "type": "serie",
