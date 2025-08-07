@@ -1,5 +1,17 @@
 [
   {
+    "imageUrl": "https://image.tmdb.org/t/p/w500/AnRGjlewyTZj9lfZv3WM9ZTIXRD.jpg",
+    "movieName": "Amenaza explosiva",
+    "type": "pelicula",
+    "genre": [
+      "accion",
+      "suspenso"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1PD_K37_qlGcpqxD3tZ2pcQ",
+    "bannerLink": "",
+    "estreno": false
+  },
+  {
     "imageUrl": "https://mabuse.es/wp-content/uploads/2025/05/Como-entrenar-a-tu-dragon.jpg",
     "movieName": "Cómo entrenar a tu dragón",
     "type": "pelicula",
