@@ -1,5 +1,18 @@
 [
   {
+    "imageUrl": "https://image.tmdb.org/t/p/w500/tAAikrL3kH3TopsDC2Bgo4ARUiP.jpg",
+    "movieName": "John Wick 2: Un Nuevo Día para Matar",
+    "type": "pelicula",
+    "genre": [
+      "accion",
+      "crimen",
+      "suspenso"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1q21exU1F31909QNxgvGWTQ",
+    "bannerLink": "",
+    "estreno": false
+  },
+  {
     "imageUrl": "https://image.tmdb.org/t/p/w500/tDl5ac1VJwMRvlgINDCsDCqg9CE.jpg",
     "movieName": "John Wick: Otro Día para Matar",
     "type": "pelicula",
