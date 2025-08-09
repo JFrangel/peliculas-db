@@ -1,5 +1,18 @@
 [
   {
+    "imageUrl": "https://image.tmdb.org/t/p/w500/4iUAMj3iieLAVyKSkhOy0rSAomV.jpg",
+    "movieName": "Música, Amigos y Fiesta",
+    "type": "pelicula",
+    "genre": [
+      "comedia",
+      "drama",
+      "romance"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1zePriNeRFOEOXlY_dOoaNQ",
+    "bannerLink": "",
+    "estreno": false
+  },
+  {
     "imageUrl": "https://image.tmdb.org/t/p/w500/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg",
     "movieName": "John Wick 4",
     "type": "pelicula",
