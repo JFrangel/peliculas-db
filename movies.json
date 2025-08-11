@@ -1,6 +1,18 @@
 [
   {
     "imageUrl": "https://image.tmdb.org/t/p/w500/g72YfmqUU0AlbDXRiYmDZWs28f7.jpg",
+    "movieName": "El juego del calamar: 2",
+    "type": "serie",
+    "genre": [
+      "drama",
+      "misterio"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1HhaAV37oBIWrkZ4Cab0G8w",
+    "bannerLink": "",
+    "estreno": false
+  },
+  {
+    "imageUrl": "https://image.tmdb.org/t/p/w500/g72YfmqUU0AlbDXRiYmDZWs28f7.jpg",
     "movieName": "El juego del calamar",
     "type": "serie",
     "genre": [
