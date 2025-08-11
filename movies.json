@@ -1,5 +1,18 @@
 [
   {
+    "imageUrl": "https://image.tmdb.org/t/p/w500/jwBcQXp7WgYgrcANpnuLCCfLpkK.jpg",
+    "movieName": "Amigos De Armas",
+    "type": "pelicula",
+    "genre": [
+      "comedia",
+      "crimen",
+      "drama"
+    ],
+    "movieUrl": "https://1024terabox.com/s/1HSf93HVEfxYYIU-SMN18hg",
+    "bannerLink": "",
+    "estreno": false
+  },
+  {
     "imageUrl": "https://image.tmdb.org/t/p/w500/hQj7EJsYOzhy2VvBdfzYt3mytUO.jpg",
     "movieName": "La noche de los desaparecidos",
     "type": "pelicula",
